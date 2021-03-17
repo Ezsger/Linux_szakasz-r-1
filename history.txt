@@ -1,0 +1,2000 @@
+touch Flow.zip
+./fb.sh
+cd -
+./fb.sh
+vim fb.sh
+./fb.sh
+vim fb.sh
+./fb.sh
+vim fb.sh
+nano fb.sh
+./fb.sh
+nano fb.sh
+./fb.sh
+nano fb.sh
+./fb.sh
+ls ~
+nano fb.sh
+./fb.sh
+nano fb.sh
+./fb.sh
+nano fb.sh
+./fb.sh
+nano fb.sh
+./fb.sh
+nano fb.sh
+./fb.sh
+nano ~/etc/dir.conf
+./fb.sh
+ls ~
+cron
+cron -e
+crontab -e
+nano fb.sh
+mkdir ~/Flow/backup
+ls ~/Flow
+nano fb.sh
+./fb.sh
+ls ~/Flow/backup
+ls ~/Flow
+ls ~/Flow/backup
+ls ~
+nano fb.sh
+./fb.sh
+nano bashrc
+nano .bashrc
+vim .bashrc
+touch program.txt
+rm program.txt
+cd ~/Flow/lessons/Linux/4-lesson
+cd gyakorlat
+ls
+cd Gyakorlat
+touch text.txt
+text.txt $@
+rm test.txt
+rm text.txt
+touch text.sh
+text.sh $@
+ls
+text $ alma körte banán
+text.sh $ alma körte banán
+text.sh $@ alma körte banán
+nano text.sh
+cd ~/bin
+ls
+nano fb.sh
+/home/rockger/Flow/lessons/Linux/4-lesson/Gyakorlat
+cd /home/rockger/Flow/lessons/Linux/4-lesson/Gyakorlat
+ls
+text.sh $#
+text.sh$@
+text.sh $@
+cd ~/home/rockger/lessons/Linux/4-lesson/Gyakorlat
+cd ~/home/rockger/lessons/Linux/4-lesson/Gyakorlás
+cd ~/home/rockger/lessons/Linux/4-lesson
+
+cd ~/Flow/lessons/Linux
+cd 4-lesson
+ls
+cd Gyakorlat
+ls
+rm text.sh.save
+ls
+nano #!/bin/sh
+nano text.sh
+./text.sh
+chmod 755 text.sh
+./text.sh
+text.sh alma körte 
+text.sh $ alma körte
+node kockadobas.js
+node gyak2-3.js
+ls
+rm Letöltések
+cd Flow/lessons/Linux/4-lesson
+./hello.sh
+nano hello.sh
+cd Letöltések
+ls
+mv 04-ProgAlap_gyakorlat.pptx.pdf ~/Flow/lessons/programozas/lesson-3
+ls
+tree ~/Flow/lessons/programozas
+node otthon1.js
+node otthon3.js
+node otthon4.js
+gyakora4.js
+node gyakora4.js
+ls
+cd lesson-3
+ls
+node gyakora4.js
+cd ..
+node otthon4.js
+node otthon1.js
+ls
+cd ..
+ls
+mkdir lesson-4
+cd lesson-4
+.code
+code .
+cd Flow
+cd lessons/programozas
+ls
+cd gyakorlas
+ls
+code .
+node orai.js
+orai1.js
+ls
+node orai1.js
+node orai2.js
+node orai1.js
+node orai3.js
+node gyakora1.js
+node gyakora2.js
+node gyakora3.js
+node gyakora1.js
+node gyakora2.js
+node gyakora4.js
+node gyakora5.js
+node gyakora6.js
+cd Kocka
+node Dice.js
+cd ..
+cd lesson-3
+ls
+code .
+cd .
+cd -
+cd ..
+cd gyakorlas
+ls
+cd kocka
+ls
+node otthon4.js
+node gyakora6.js
+node teszt.js
+node gyakora6.js
+cd ..
+ls
+mkdir lesson-5
+cd lesson-5
+code .
+cd ..
+cd lesson-4
+code .
+cd Flow
+cd lessons
+ls
+cd programozas
+ls
+cd gyakorlas
+tree
+cd Kocka
+code .
+cd Flow/lessons/programozas/gyakorlas
+ls
+cd ..
+ls
+cd lesson-3
+ls
+code .
+node orai1.js
+node orai2.js
+node orai3.js
+node orai4.js
+node orai5.js
+node orai6.js
+node gyakora1.js
+node gyakora2.js
+node gyakora3.js
+node gyakora4.js
+node Table.js
+node gyakora4.js
+node gyakora1.js
+node gyak1.js
+node gyak2.js
+node gyak3.js
+cd Flow
+ls
+cd lessons
+cd programozas
+ls
+mkdir lesson-6
+cd lesson-6
+cd ..
+cd lesson-3
+ls
+code .
+cd ..
+cd lesson-4
+ls
+code .
+cd ..
+cd lesson-5
+code .
+cd ..
+cd lesson-6
+code .
+sudo apt install git
+node gyakora3.js
+node gyakora4.js
+$ sub-keygen -t rsa -b$ sub-keygen -t rsa -b
+$ sub-keygen -t rsa -b
+$ ssh-keygen -t ed25519 -C "ezsger@gmail.com"
+ssh-keygen -t ed25519 -C "ezsger@gmail.com"
+ssh -T git@github.com
+ls -la
+cd ssh
+cd ..
+ls a
+ls a .
+cd -
+ls a
+ls a 
+ls a .
+cd ~ 
+ls
+touch ssh.config
+ls
+rm ssh.config
+ssh-keygen -t ed25519 -C "ezsger@gmail.com"
+ls
+cd .ssh
+ls
+cat id_ed25519.pub
+ssh -T git@github.com
+git init
+ls la
+ls -la
+cd .git
+git init
+ls -la
+rmdir .git
+rm -r .git
+ls -la
+cd ..
+git status
+cd .git
+git status
+cd ..
+cd .git
+ls -ls
+ls -la
+cd ..
+ls
+cd Flow
+cd lessons
+mkdir Git
+cd mkdir Git
+cd Git
+clone git@github.com:Ezsger/proba.git
+git clone git@github.com:Ezsger/proba.git
+ls
+cd proba
+ls
+nano main.js
+ls
+git st
+git add main.js
+git status
+cat main.js
+ls
+cat main.js
+nano main.js
+git status
+git push
+git status
+git add main.js
+git status
+git push
+git status
+git restore
+git restore --staged
+git commit main.js
+git commit
+git commit --staged
+git commit
+ls
+git config --global ezsger@gmail.com
+cd ..
+ls -al
+cd ~
+ls
+ls a
+ls -a
+cd .ssh
+ls
+ls -a
+git config --global ezsger@gmail.com
+git status
+ssh -T git@github.com
+mkdir git
+cd git
+ls
+ls -a
+touch main.js
+git status
+ls 
+git add main.js
+git status
+get push main.js
+git push main.js
+git push --set-upstream main.js master
+cd ~/Flow/lessons/Git
+ls
+cd proba
+ls
+git status
+git restore --staged main.js...
+cd ..
+ls -a
+cd .ssh
+cd .git
+git remote set-url origin git@github.com:Ezsger/proba.git
+cd ~/Flow/lessons/Git/proba
+git remote -v
+git status
+git commit
+git config --global user.email "ezsger@gmail.com"
+git config --global user.name "Ezsger"
+git commit
+git status
+git push
+node gyakora1.js
+node gyakora2.js
+node gyakora1.js
+node gyakora2.js
+node gyakora3.js
+node gyakokra4.js
+node gyakora4.js
+node gyakora5.js
+node gyakora2.js
+node gyakora3.js
+node orai1.js
+sudo apt get update
+cd Flow/lessons/progamozas
+cd Flow
+cd lessons
+cd programozas
+mkdir lesson-7
+cd lesson-7
+code .
+clear
+cd Flow/lessons/programozas
+cd lesson-3
+code .
+node gyakora6.js
+node orai1.js
+node orai2.js
+node orai1.js
+node orai2.js
+node orai1.js
+node orai2.js
+npm init
+sudo apt instal npm
+sudo apt install npm 
+nmp init
+npm init
+npm install chalk
+node teszt.js
+node cars_task.js
+node teszt.js
+node cars_task.js
+node gyakora6.js
+cd Flow/lessons/programozas
+cd lesson-3
+code .
+cd ..
+cd lesson-7
+code .
+node car_task.js
+node cars_task.js
+cd Flow/lessons/programozas
+cd lesson-7
+code .
+cd Flow/lessons/programozas
+mkdir lesson-8
+cd lesson-8
+code .
+cd ..
+cd Git
+ls
+lesson-2
+mkdir lesson-2
+cd lesson-2
+git init
+git status
+ls
+node cars_tasks.js
+node cars_task.js
+cd Flow/lessons/programozas/lesson-8
+code .
+cd Flow/lessons/Git/lesson-2
+git status
+cd ..
+cd proba
+ls
+nano README.md
+git status
+git diff
+nano main.js
+git status
+git diff
+git add main.js
+git status
+git commit
+git status
+git commit
+man commit
+man git commit
+git log
+git commit -m "@@ -1,2 +1,4 @@
+ # proba
+ Ez egy próba repó, amit első gyakorlásra hoztunk létre.
++
++Rakjunk bele egy plusz sort,h ogy lássuk mit csinál vele a git.
+"
+git status
+git log
+git push
+ls -la
+ls -a
+git status
+git add README.md
+git status
+git commit
+git log
+git status
+git push
+git tree
+git mktree
+git branch
+git branchtree
+git checkout -b
+git checkout -B
+git checkout -B oraiTeszt
+git push --set-upstream origin oraiTeszt
+date >| README.md
+git status
+git checkout -- README.md
+git status
+git fetch
+git status
+git la
+git checkout main
+git status
+git la
+git -la
+git log --pretty=oneline --graph --all
+nano README.md
+git status
+git add README.md
+git status
+git commit 
+git push
+git status
+git checkout oraiTeszt
+nano README.md
+git status
+git add README.md
+git statusz
+git status
+git commit
+git status
+git checkout -b cica
+git push -- set-upstream origin cica
+git push --set-upstream origin cica
+nano README.md
+git status
+git add README.md
+git status
+git commit
+git push cica
+git push
+git status
+git checkout oraiTeszt
+git merge cica
+git status
+nano README.md
+git status
+git diff
+git status
+git restore README.dm
+git fetch
+git pull
+git status
+nano README.dm
+nano README.md
+nano git pull README.md
+git push
+git status
+git commit
+git show head
+git checkout main
+git show head
+git revert README.md
+git main oraiTeszt
+git diff main oraiTeszt
+git status
+git reset
+git status
+git reset HEAD^
+git status
+git add README.md
+git status
+git push
+git commit
+git push
+git fetch
+git pull
+nano README.md
+git status
+git pull
+git push
+git fetch
+git reset
+git status
+git restore
+git restore README.md
+git status
+git pull
+nano README.md
+git status
+git merge --abort
+git status
+git pull
+nano README.md
+git commit
+nano README.md
+git add README.md
+git status
+git pull
+git commit
+git pull
+git status
+git push
+clear
+node kappa_7.js
+npm install readline-sync
+man npm readline-sync
+node kappa_7.js
+npm install fs
+node kappa_7.js
+npm install readFilw-sync
+npm install readFile-sync
+node task.js
+git status
+git init
+git status
+ls l
+ls a
+ls -a
+cd .git
+ls -a
+cd ..
+git status
+git checkout gyakkorlas
+git branch
+git status
+node task.js
+node task.jsBudapest
+node task.js
+cd Flow/lessons/programozas/lesson-8
+code .
+git status
+git add task.js
+git status
+git commit
+git status
+git push
+git status
+cd Flow/lessons/programozas/lesson-9
+code .
+cd ~
+ls -a
+cd .ssh
+ls -a
+cd git
+ls -a
+cd ..
+cd .git
+ls -a
+npm init
+git init
+ls -a
+cd .git
+ls -a
+cd ..
+ls -a
+cd .git
+ls -a
+nano config
+nano .gitignore
+cd ..
+git status
+ls 
+cd .git
+ls
+ls -a
+nano .gitignore
+git status
+cd ..
+git status
+node orai1.js
+node orai2callback.js
+node orai3.js
+node orai4.js
+npm install tablet
+npm install terminal-kit
+node orai5.js
+npm install axel
+node orai6.js
+.gitignore
+ls -s
+ls -a
+node orai8.js
+cd .ssh
+ls -a
+cd git
+ls -a
+cd ..
+cd .git
+ls -a
+cd Flow/lessons/programozas/lesson-9
+cd Flow/lessons/programozas
+cd ~/Flow/lessons/programozas
+cd lesson-9
+ls -a
+git status
+git rm --cached package-lock.json
+git rm --cached node_modules/
+git rm --cached ./node_modules/
+cd ~/Flow/lessons/programozas
+cd lesson-9
+code .
+node orai8.js
+npm install semistandard
+node gyarora1main.js
+gyakora1main.js
+node gyakora1main.js
+node gyakora1main.js
+node gyakora1main.js
+gyakora1main.js
+node gyakora1main.js
+npm install
+ls
+cd ~/Flow/lessons/programozas
+cd lesson-9
+code .
+npm istall semistandard
+node gyakora1main.js
+npm install semistandard
+cd ~/Flow/lessons/programozas
+cd lesson-9
+code .
+cd ~/Flow/lessons/programozas
+cd lesson-3
+code .
+node gyakora1main.js
+cd ~/Flow/lessons/programozas
+cd lesson-9
+code .
+node gyakora3printGames.js
+node gyakora3printGame.js
+node gyakora1main.js
+
+node gyakora1main.js
+cd ~/Flow/lessons/programozas
+cd lesson-9
+code .
+cd ~/Flow/lessons/programozas
+cd lesson-9
+code .
+cd ~/Flow/lessons/programozas
+mkdir lesson-10
+cd lesson-10
+code .
+cd ~/Flow/lessons/programozas
+cd lesson-8
+code .
+cd ..
+cd lesson-7
+code .
+cd ~/Flow/lessons/programozas
+ls -a
+cd lesson-9
+git status
+git checkout hangMan
+git checkout -b  hangMan
+git push --set-upstream origin hangMan
+git remote
+git remote -v
+git push --set-upstream proba2  hangMan
+git init
+git remote -v
+git push --set-upstream proba2 hangMan
+git clone git@github.com:Ezsger/proba2.git
+git status
+ls -a
+cd .git
+ls -a
+cd ..
+nano .gitignore
+cd .git
+nano .gitignore
+cd ..
+mkdir gitGyak
+git remote add origin ./gitGyakorlas
+git remote add origin ./gitGyakorlas/
+cd ..
+ls
+cd Git
+ls
+mkdir lesson-3
+cd lesson-3
+git clone git@github.com:Ezsger/proba2.b.git
+git status
+git init
+git clone git@github.com:Ezsger/proba2.b.git
+git status
+cd proba2.b
+ls -a
+cd ..
+git status
+ls -a
+cd proba2.b
+ls -a
+cd ..
+git status
+cd proba2.b
+git status
+git checkout -b newbranch
+git push --set-upstream origin main
+git status
+git add kappa_7.js
+git status
+git commit kappa_7.js
+git push
+git push --set-upstream origin newbranch
+git push
+ls
+nano kappa_7.js
+git status
+git add kappa_7.js
+git status
+git commit
+git status
+git push
+nano kappa_7.js
+git status
+git add
+git add kappa_7.js
+git status
+git commit
+git push
+nano kappa_7.js
+git status
+git add kappa_7.js
+git status
+git commit
+git push
+cd ..
+mkdir proba2c
+cd proba2c
+git init
+git clone git@github.com:Ezsger/proba2c.git
+git status
+git checkout -b robiMuti
+git push --set-upstream origin robiMuti
+ls és
+ls -a
+cd proba2c
+ls -a
+cd ..
+cd .git
+ls -a
+cd ..
+cd proba2c
+git push --set-upstream origin robiMuti
+git status
+git checkout -b robiMuti
+git push --set-upstream origin robiMuti
+git status
+cd ..
+ls
+git status
+mkdir proba2d
+cd proba2d
+git init
+cd .git
+git checkout -b kappaProba
+git@github.com:flowacademyhu/kappa-pract-feb26.git
+git clone git@github.com:flowacademyhu/kappa-pract-feb26.git
+git checkout -b kappaProba1
+git status
+cd ..
+git status
+git checkout -b
+git checkout -b kappaProba1
+git checkout -b rockgerProba
+git push --set-upstream origin rockgerProba
+git status
+git push --set-upstream origin rockgerProba
+cd .git
+git push --set-upstream origin rockgerProba
+cd ..
+git push --set-upstream origin rockgerProba
+git push --set-upstream origin kappaProba1
+git checkout -b rockger
+git push --set-upstream origin rockger1
+git status
+. code
+code .
+git status
+git add main.js
+git commit
+git status
+git push --set-upstream origin rockger1
+git remote -v
+cd ..
+mkdir proba2e
+cd proba2e
+git clone git@github.com:flowacademyhu/kappa-pract-feb26.git
+git checkout -b rockger1
+git checkout -b rockgerA
+ls -a
+cd kappa-pract-feb26
+git checkout -b rockgerA
+git push --set-upstream origin rockgerA
+nano main.j
+nano main.js
+git status
+git add main.js
+git status
+git commit
+git status
+git push
+git diff
+git status
+git pull origin main
+git diff main.js
+nano main.js
+git status
+git add main.js
+git commit
+git status
+git push
+node orai1main.js
+node gyakora1main.js
+node oraiFillMap.js
+node oraiGenerateMap.js
+
+node oraiFillMap.js
+node oraiAddSnow.js
+node oraiFillMap.js
+node oraiAddSnow.js
+node oraiFalling.js
+npm install table
+node oraiFalling.js
+node oraiPrintMap.js
+node oraiFalling.js
+node oraiGenerateMap.js
+node oraiAddSnow.js
+node oraiPrintMap.js
+node oraiFalling.js
+node oraiPrintMap.js
+npm install axel
+npm fund
+node oraiPrintMap.js
+node oraimain.js
+node oraiPrintMap.js
+node teszt.js
+node oraiPrintMap.js
+node teszt.js
+node oraiPrintMap.js
+node teszt.js
+cd Flow/lessons/Git
+ls
+mkdir lesson-4
+cd lesson -4
+cd lesson-4
+git clone https://github.com/hgarc014/git-game.git
+ls
+cd git-game
+ls
+cat README.md
+java
+git log
+git log --grep Hello
+git checkout 640273807f9bac8af03575f82b788663d4b99927
+ls
+cat README.md
+git checkout bug
+git status
+cat README.md
+git log grep 640273807f9bac8af03575f82b788663d4b99927
+ls
+cat remember
+ls
+git blame cool.cpp
+git checkout LinusTorvalds2014
+cat README.md
+ls
+cd ..
+ls
+cd git-game
+ls
+cat README.md
+ls -a
+cat .gitignore
+git checkout root
+git checkout seed
+git checkout roots
+git checkout tree
+ls
+cat nextclue_input.cpp
+cat README.md
+cat nextclue_input.cpp
+cat outputclue.sh
+cat README.Md
+cat README.md
+./outputclue.sh nextclue_input.cpp
+ls -a
+cat nextclue_input.cpp
+cat outputclue.sh
+cat README.md
+./outputclue.sh nextclue_input.cpp
+git branch -a
+git status
+git pull origin code4life
+git status
+nano nextclue_input.cpp
+./outputclue.sh nextclue_input.cpp
+checkout mouse
+git checkout mouse
+git status
+git add
+git add .
+git status
+git commit
+
+git status
+git checkout mouse
+ls -a
+cat README.md
+git diff remember
+git diff tree remember
+git diff . remember
+git diff ./remember tree remember
+git stastus
+git status
+ls -a
+git diff --help
+git branch
+git diff --help
+git diff bug remember
+git checkout Henry
+ls -a
+cat README.md
+git branch -a
+git branch -av
+git checkout --help
+git rm -t Henry
+git tab -d Henry
+git tag -d
+git status
+git log
+git tag -d Henry
+git log
+git checkout Henry
+git log
+git status
+ls -a
+cat README.md
+git tab --help
+git tag --help
+git status
+git remote -v
+git remote add upstream https://github.com/drami025/git-game.git
+git remote -v
+git status
+git checkout master
+ls README.md
+git pull upstream master
+ls README.md
+cat README.md
+node generateMap.js
+git checkout marioCharacter
+git checkout -b marioCharacter
+git status
+git pull
+git status
+git pull
+cd Flow
+ls
+mkdir project
+cd project
+mkdir mario
+cd mario
+git clone git@github.com:ltamas123/mario.git
+ls
+cd mario
+ls
+code .
+git status
+git pull
+code .
+node oraiPrintMap.js
+node teszt.js
+node oraiPrintMap.js
+git status
+git add marioCharacter.js
+git status
+git push .
+git status
+git commit
+git push .
+git status
+git push --set-upstream origin marioCharacter
+npm install
+npm install chalk
+nmp install table
+npm install table
+npm install axel
+git status
+git fetch
+git pull generateMap.js
+git pull
+git pull origin main
+node generateMap.js
+node marioCharacter.js
+node generateMap.js
+node generateMap.js
+node generateMap.js
+node teszt.js
+cd Flow
+ls
+cd lessons
+ls
+cd ..
+ls
+cd project
+cd mario
+ls
+cd mario
+ls
+code.
+code .
+node generateMap.js
+teszt.js
+node teszt.js
+git status
+git add marioCharacter.js
+git status
+git commit
+git push
+git status
+node index.js
+git add marioCharacter.js
+git status
+git commit
+git status
+git push
+node generateMapFirst
+node generateMap
+npm install table
+node generateMap
+node index.js
+cd Flow
+cd project
+cd mario
+git pull
+git status
+git pull origin main
+git commit
+git pull origin main
+git stash
+git pull origin main
+cat generateMap.js
+code .
+cd ..
+ls
+cd mario(new)
+cd mario-new
+git clone git@github.com:flowacademyhu/kappa-super-mario.git
+git checkout -b char&move
+git status
+ls
+cd kappa-super-mario
+ls
+git status
+git checkout -b char&move
+git status
+git push --set-upstream origin char
+code .
+git status
+node index.js
+git status
+git add marioMovement.js
+git status
+git add package-lock.json
+git status
+git add marioCharacter.js
+git add index.js
+git add generateMap.js
+git status
+git commit generateMap.js
+git status
+git add marioCharacter.js
+git status
+git commit marioCharacter.js
+git commit index.js
+git status
+git commit marioMovement.js
+git status
+git commit
+git push
+node index.js
+git status
+git add 
+git add .
+git status
+git commit index.js
+git commit marioCharacter.js
+git commit marioMovement.js
+git status
+git push
+node index.js
+node index.js
+git status
+node index.js
+cd Flow
+ls
+cd project
+ls
+cd mario-new
+ls
+cd kappa-super-mario
+ls
+node index.js 
+cd Flow
+cd project
+ls
+cd mario-new/
+ls
+cd kappa-super-mario/
+ls
+clear
+node index.js 
+clear
+node index.js 
+clear
+node index.js 
+clear
+node index.js 
+clear
+node index.js 
+clear
+node index.js 
+clear
+node index.js 
+clear
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+node index.js
+clear
+cd ..
+cd lessons
+cd Git
+ls
+cd lesson-5
+ls
+git clone git@github.com:git-game/git-game-v2.git
+git status
+ls
+cd git-game-v2/
+git status
+ls
+git ls-files
+git ls -a files
+git ls-a files
+git ls files
+git ls-files
+git checkout 30
+ls
+nano README.md 
+git checkout 26
+ls
+nano README.md 
+git checkout main
+git checkout master
+ls
+cat README.md 
+git ls-files | xargs wc -l
+git checkout 6865
+ls
+cat README.md 
+git checkout master
+git checkout 6861
+cat README.md 
+git log
+git show <revhash>
+git show head
+git show HEAD
+git show
+git show HEAD
+cat README.md 
+git show <HEAD>
+git log
+git show 16a28decee95df6d07def6cfdf32b3eee2c626c9
+git checkout snowden
+ls
+cat README.md 
+git shortlog keyboard
+git shortlog 16a28decee95df6d07def6cfdf32b3eee2c626c9
+git shortlog snowden
+git checkout anon
+ls
+cat README.md 
+git describe
+git checkout return-1005-g3a38b527
+ls
+cat README.md 
+git checkout return
+ls
+cat README.md 
+git checkout pretty
+
+node index.js
+git status
+git add .
+git status
+git commit generateMap.js
+git commit marioCharacter.js
+git status
+git commit generateMap.js
+git status
+git commit marioMovement.js
+git push
+git status
+git push
+git push generateMap.js
+git status
+git restore --staged generateMap.js
+git status
+git restore --staged package-lock.json
+git status
+git add generateMap.js
+git status
+git commit generateMap.js
+git status
+git push
+node index.js
+git checkout main
+git restore marioMovement.js
+git checkout main
+git fetch
+git pull
+node index.js
+git status
+git commit marioMovement.js 
+git status
+git push
+git checkout char
+git pull origin main
+git status
+node marioCharacter.js
+cd Flow/project/mario-new/kappa-super-mario
+ls
+node index.js
+node index.js
+cd Flow
+cd lessons
+ls
+cd Sitebuilding
+ls
+mkdir lesson-2
+cd lesson-2
+code .
+node index.js
+cd Flow/project
+ls
+cd mario-new/
+ls
+node index.js
+ls
+cd kappa-super-mario/
+node index.js
+cd Flow
+cd project
+ls
+cd mario
+ls
+code .
+cd ..
+ls
+cd mario
+ls
+code .
+cd .
+cd ..
+ls
+cd mario-new/
+ls
+cd kappa-super-mario/
+ls
+node index.js
+git status
+node index.js
+nc localhost 5000
+git status
+git add generateMap.js
+git add index.js
+git add .
+git status
+git restore package-lock.json
+git status
+git restore --staged  package-lock.json
+git status
+git commit generateMap.js
+git commit index.js 
+git commit marioCharacter.js
+git commit marioDeath.js 
+git status
+git add marioDeath.js 
+git commit marioDeath.js 
+git status
+git add marioDeath.js 
+git commit marioDeath.js 
+git status
+git commit marioDeath.js 
+git status
+git commit generateMap.js
+git status
+git commit marioCharacter.js 
+git status
+git commit
+git status
+git push .
+git status
+git commit generateMap.js 
+git status
+git commit marioMovement.js 
+git status
+git push
+git status
+node index.js
+git status
+git add index.js
+git add marioDeath.js
+git commit index.js 
+git commit marioDeath.js 
+git status
+git push
+git push .
+git status
+git commit index.js 
+git status 
+git add index.js 
+git status 
+git commit 
+git push
+git status
+git add generateMap.js
+git commit
+git status
+git push
+git pull origin main
+node index.js
+git status
+git add index.js
+git add marioDeath.js 
+git commit index.js 
+git commit marioDeath.js 
+git status
+git checkout enemy
+git checkout char
+git status
+git push
+apt-get update
+sudo apt-get update
+sudo apt-get install
+sudo apt-get install netcat
+nc example.com 80
+cd Flow
+cd lessons
+ls
+mkdir halozatepites
+cd halozatepites
+ls
+nano Hello.txt
+ls
+{ echo -ne "HTTP/1.0 200 OK\r\nContent-Length: $(wc -c <Hello.txt)\r\n\r\n"; cat Hello.txt; } | nc -l 8080
+sudo apt-get dnsutils
+sudo apt-get install  dnsutils
+dig
+dig google.com
+dig facebook.com
+nc -l 5000
+iconfig
+ifconfig
+sudo apt-get install nettools
+sudo apt-get install net-tools
+ifconfig | grep inet
+nc -l 4242
+cat Hello.txt | nc -l 4242 
+clear
+cd ..
+cd project/
+ls
+cd mario-new/
+ls
+cd kappa-super-mario/
+node index.js
+git pull origin test
+nano index.js
+fg
+nano generateMap.js 
+nano index.js
+git pull origin test
+git status
+nano index.js
+git add generateMap.js 
+git add index.js
+git status
+git push .
+git status
+git commit .
+git commit index.js 
+node index.js 
+git status
+node index.js 
+git status
+git restore bigMapgeneration.js
+git restore generateMap.js
+git restore marioDeath.js
+git status
+node index.js 
+cd Flow
+cd project
+ls
+cd mario-new
+ls
+cd kappa-super-mario/
+ls
+node index.js
+git status
+git add .
+git commit
+git push
+git status
+git restore package-lock.json
+git commit marioCharacter.js 
+git commit marioDeath.js 
+git push
+git checkout -b enemyNew
+git push --set-upstream origin enemyNew
+node index.js
+git status
+git fetch enemy
+git fetch origin enemy
+node index.js
+git pull origin enemy
+git checkout enemy
+git stash
+node index.js
+git status
+git checkout enemy
+git checkout enemyNew
+git pull origin enemy
+nano marioCharacter.js
+nano marioDeath.js 
+git status
+git commit 
+git add marioCharacter.js 
+git add marioDeath.js 
+git status
+git commit 
+git status
+node index.js
+cd Flow/project/mario-new/kappa-super-mario/
+index.js
+node index.js
+git status
+git pull origin main
+git stash
+git status
+git pull origin main
+node index.js
+Flow/project/mario-new/kappa-super-mario/
+cd Flow/project/mario-new/kappa-super-mario/
+node index.js
+git status
+node index.js
+git status
+git add.
+git status
+git add .
+git status
+git commit
+git status
+git push
+git status
+git pull origin main
+nano marioCharacter.js 
+git status
+git commit 
+git add marioCharacter.js 
+git status
+git commit
+git status
+git push
+git fetch 
+git pull origin main
+cd Flow/project/mario
+ls
+cd mario
+ls
+cd ..
+ls
+mario-new/
+cd mario-new/
+cd kappa-super-mario/
+node index.js
+node index.js
+git pull origin main
+node index.js
+git status
+git add .
+git status
+git commit enemy.js
+git commit generateMap.js
+git comit index.js
+git commit index.js
+git status
+git commit marioDeath.js 
+git push
+git status
+git add enemyDeath.js 
+git commit enemy.js
+git status
+git add .
+git status
+git add
+git add enemy.js
+git status
+git restore enemy.js
+git status
+git restore enemy.js
+git status
+git add enemy.js
+git add .
+git status
+git commit enemy.js
+git commit enemyDeath.js 
+git generateMap.js
+git commit generateMap.js 
+git status
+git commit tesztBigMapgeneration.js 
+git commit marioDeath.js 
+git status
+git commit
+git status
+git commit .
+git status
+git commit enemyMobs.js 
+git status
+git commit enemyMobs.js 
+git commit index.js 
+git status
+git push
+cd Flow/project/mario
+ls
+cd ..
+cd mario-new/
+cd kappa-super-mario/
+node index.js
+cd Flow/project/mario
+cd ..
+cd mario-new/
+cd kappa-super-mario/
+cd Flow/project/mario
+cd ..
+cd mario-new/
+cd kappa-super-mario/
+ls
+node index.js
+git status
+git add .
+git status
+git commit enemy.js
+git commit generateMap.js 
+git commit index.js 
+git status
+git push
+git status
+git checkout main
+git fetch
+git pull
+git pull origin enemyNew
+git status
+git add .
+git status
+git commit
+git status
+git push
+git checkout enemyNew
+git pull origin main
+git status
+git push
+git status
+git add .
+git status
+git commit
+git status
+git push
+git status
+git add .
+git status
+git commit 
+git push
+cd Flow/project/mario-new/kappa-super-mario/
+
+cd Flow/project/mario-new/kappa-super-mario/
+node index.js 
+ode index.j
+node index.js
+git status
+git add .
+git commit 
+git push
+cd Flow\project
+cd Flow
+ls
+cd project
+ls
+cd mario-new/
+ls
+cd kappa-super-mario/
+node index.js
+git status
+git add .
+git commit
+git push
+git fetch
+git pull origin main
+git status
+git add .
+git commit
+git status
+git push
+git status
+node teszt.js
+git status
+git add .
+git status
+git commit
+git status
+git commit 
+git push
+git status
+git add .
+git commit
+git push
+git checkout marioShoot
+git fetch
+git checkout marioShoot 
+git status
+git fetch
+git status
+git pull
+git status
+git add .
+git commit
+git push
+git checkout enemyNew
+git status
+git add .
+git commit
+git push
+git fetch
+git pull origin main
+git status
+git add .
+git commit
+git status
+git push
+git status
+git push origin main
+git checkout main
+git fetch
+git status
+git pull origin enemyNew
+git status
+git push
+git status
+git checkout enemyNew 
+git status
+node map.js
+node oraiFalling.js 
+node oraiPrintMap.js 
+cd ..
+cd lessons
+cd programozas
+ls
+cd lesson-9
+code .
+cd ..
+cd lesson-10
+code .
+cd Flow\project
+cd Flow
+ls
+cd project
+cd mario-new/
+cd kappa-super-mario/
+node index.js
+git status
+git commit
+git add .
+git commit
+git push
+git pull origin main
+node index.js
+sudo snap install vlc
+
+sudo snap install vlc
+node index.js
+node index.jsű
+node index.js
+npm install
+git status
+git add .
+git status
+git commit
+git push
+sudo npm install audic
+npm fund
+q
+node hangteszt.js 
+git status
+git add .
+git commit 
+git push
+git fetch
+git pull origin main
+git status
+git add .
+git status
+git commit 
+git status
+git add .
+git commit 
+git push
+git checkout main
+git pull origin enemyNew
+git push
+git status
+git checkout enemyNew 
+git status
+git add .
+git status
+git commit
+git status
+git push
+git pull origin main
+git status
+git add .
+git commit
+git status
+git push
+git fetch
+git pull origin main
+git push origin main
+git status
+git checkout main
+git pull origin enemyNew
+git push 
+git checkout enemyNew
+git status
+git add .
+git commit
+git status
+git push
+cd Flow/project/mario-new/kappa-super-mario/
+node index.js 
+cd Flow/project/mario-new/kappa-super-mario/
+node index.js 
+git status
+git add .
+git commit
+git status
+git push
+node index.js 
+cd Flow/project/mario-new/kappa-super-mario/
+node index.js 
+cd Flow/project/mario-new/kappa-super-mario/
+node index.js 
+cd Flow/project/mario-new/kappa-super-mario/
+node index.js 
+cd Flow/project/mario-new/kappa-super-mario/
+node index.js 
+git status
+git add .
+git status
+git commit
+git status
+git push
+git pull origin main
+git fetch
+git pull origin main
+git status
+git restore
+git status
+git restore index.js
+git restore tesztBigMapgeneration.js
+git restore ujGenerateMap.js
+git status
+git pull origin main
+git diff
+git restore .
+git status
+git merge --abort
+git status
+git pull origin main
+git status
+git commit
+git add .
+git commit
+git push
+git push origin main
+git fetch
+git push origin main
+git checkout main
+git pull origin enemyNew
+git fetch
+git status
+git restore ujGenerateMap.js
+git status
+git pull origin main
+git checkout enemyNew 
+git status
+git pull origin main
+git fetch
+git pull origin main
+git push
+git status
+git add .
+git commit
+git push
+git checkout main
+git status
+git add .
+git commit
+git push
+git status
+git restore index.js
+git add . 
+git commit
+git pull origin main
+git status
+git add
+git add .
+git commit
+git checkout enemyNew 
+git checkout main
+git checkout enemyNew 
+git pull origin main
+git stats
+git status
+git add .
+git commit
+git push
+cd Flow/project/mario-new/kappa-super-mario/
+node index.js 
+git status
+git add .
+git commit
+git push
+cd Flow/project/mario-new/kappa-super-mario/
+node index.js
+git fetch
+git status
+git add .
+git commit
+git push
+cd Flow/project/mario-new/kappa-super-mario/
+node index.js
+npm list -g --depth=0
+got .
+sudo apt get install mpg123
+sudo apt install mpg123
+cd Flow/project/mario-new/kappa-super-mario/
+clear
+node index.js
+clear
+node index.js
+git status
+git add .
+git commit
+git push
+git checkout main
+git pull origin enemyNew 
+git fetch
+git pull origin main
+git checkout enemyNew 
+git status
+git add .
+git status
+git commit
+git push
+git status
+git checkout main
+git fetch
+git pull origin main
+git status
+git pull origin main
+git status
+git add .
+git commit
+git status
+git push 
+git checkout enemyNew 
+git pull origin main
+git status
+git add .
+git commit
+git push
+git status
+git checkout main
+git status
+git fetch
+git status
+git pull origin main
+git checkout enemyNew 
+git status
+git pull origin main
+git status
+cd Flow/project/mario-new/kappa-super-mario/
+node index.js 
+systemctl -l service
+ssh -d
+ssh-d
+sshd
+cd Flow/lessons
+ls
+cd Sitebuilding/
+ls
+mkdir lesson-3
+cd lesson-3
+ls
+code .
+cd Flow/lessons
+mkdir DB
+cd DB
+code .
+sudo apt-get update
+sudo apt-get install mysql-server
+which mysql
+mysql
+sudo service mysql start
+mysql
+service mysql start
+sudo mysql
+use db_gyak1;
+show tables
+mysql
+sudo mysql
+sudo myql
+sudo mysql
