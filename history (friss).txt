@@ -1,0 +1,114 @@
+1785  sudo mysql
+ 1786  cat hello
+ 1787  cat feladat < echo hello
+ 1788  cat feladat < hello
+ 1789  cat feladat
+ 1790  ls
+ 1791  cd ..
+ 1792  ls
+ 1793  cd Szakaszzaro/
+ 1794  ls
+ 1795  cd teszt
+ 1796  ls
+ 1797  cd dolgozat
+ 1798  ls
+ 1799  cat feladat
+ 1800  cat feladat < hello
+ 1801  echo hello > cat feladat
+ 1802  cat feladat
+ 1803  node feladat
+ 1804  nano feladat
+ 1805  cat hello > feladat
+ 1806  cat | echo hello
+ 1807  echo hello
+ 1808  cat feladat | echo hello
+ 1809  nano feladat
+ 1810  echo hello | cat feladat
+ 1811  nano feladat
+ 1812  echo hello > cat feladat
+ 1813  nano feladat
+ 1814  cat | echo hello > feladat
+ 1815  cat hello
+ 1816  cat feladat < hello
+ 1817  cat feladat < echo hello
+ 1818  hello echo
+ 1819  echo hello
+ 1820  cat feladat
+ 1821  nano feladat
+ 1822  echo hello | cat feladat
+ 1823  nano feladat
+ 1824  echo hello > cat feladat
+ 1825  nano feladat
+ 1826  cat | echo hello > feladat
+ 1827  nano feladat
+ 1828  cd ..
+ 1829  ls
+ 1830  grep systemd /etc/passwd
+ 1831  man wc
+ 1832  grep systemd /etc/passwd | wc -w
+ 1833  ls
+ 1834  ls -l feladat2 
+ 1835  chmod 740 ~/Szakaszzaro/teszt/feladat2
+ 1836  ls -l feladat2 
+ 1837  chmod 750 ~/Szakaszzaro/teszt/feladat2
+ 1838  ls -l feladat2 
+ 1839  env
+ 1840  cat ~/.bash_history
+ 1841  node teszt.js 
+ 1842  node tesztteszt.js 
+ 1843  node teszt.js
+ 1844  node aritmetic.js 
+ 1845  git status
+ 1846  git add .
+ 1847  git status
+ 1848  git commit
+ 1849  git push
+ 1850  node teszt.js
+ 1851  cd Flow/szakaszzaro1/
+ 1852  cron
+ 1853  man cron
+ 1854  clear
+ 1855  cd ..
+ 1856  cd .
+ 1857  cd -
+ 1858  cd Flow
+ 1859  cd szakaszzaro1/
+ 1860  cd ..
+ 1861  clear
+ 1862  cd Flow
+ 1863  cd szakaszzaro1/
+ 1864  git clone git@github.com:Ezsger/Linux_szakasz-r-1.git
+ 1865  git status
+ 1866  ls
+ 1867  cd Linux_szakasz-r-1/
+ 1868  ls
+ 1869  git status
+ 1870  clear
+ 1871  mkdir -r ~/Szakaszzaro/teszt/dolgozat
+ 1872  man mkdir
+ 1873  clear
+ 1874  mkdir -p ~/Szakaszzaro/teszt/dolgozat
+ 1875  touch ~/Szakaszzaro/teszt/dolgozat/feladat
+ 1876  cat | echo hello > feladat
+ 1877  cat feladat
+ 1878  cp ~/Szakaszzaro/teszt/dolgozat/feladat ~/Szakaszzaro/teszt/feladat2
+ 1879  rm -r ~/Szakaszzaro/teszt/dolgozat
+ 1880  grep systemd /etc/passwd | wc -w
+ 1881  chmod 730 ~/Szakaszzaro/teszt/feladat2
+ 1882  chmod 750 ~/Szakaszzaro/teszt/feladat2
+ 1883  env
+ 1884  touch history.txt
+ 1885  ls
+ 1886  cat ~/.bash_history > history.txt
+ 1887  git status
+ 1888  git add history.txt
+ 1889  git status
+ 1890  git commit
+ 1891  git status
+ 1892  git push
+ 1893  git status
+ 1894  clear
+ 1895  ls
+ 1896  cd ..
+ 1897  clone git@github.com:Ezsger/Progalap_szakasz-r-1.git
+
